@@ -22,6 +22,6 @@ int main()
         }
         Beep(500,1000);
         sleep(5);
-        printf("\n\n\n\n\n\n\n\n\n\n");
+        printf("\n\n\n\n\n\n\n\n\n\n"); 
     }
 }
